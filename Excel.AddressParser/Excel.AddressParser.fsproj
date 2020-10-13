@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Column.fs" />
+    <Compile Include="Row.fs" />
+    <Compile Include="Position.fs" />
+    <Compile Include="PositionArray.fs" />
+    <Compile Include="A1Parser.fs" />
+    <Compile Include="Relation.fs" />
+  </ItemGroup>
+
+</Project>
